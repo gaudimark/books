@@ -50,5 +50,27 @@
 
 
 
-[]()
+[新生](https://www.gitbook.com/book/xiaolai/reborn/details)
+
+
+
+[李笑来 
+
+弃我去者昨日之日亦可留 乱我心者今日之日莫忧愁](https://www.gitbook.com/@xiaolai)
+
+
+
+
+
+[python高级与网络编程](https://aceld.gitbooks.io/python/content/)
+
+
+
+
+
+[网络爬虫](https://liangqingyu.gitbooks.io/bigdata-crawler/content/)
+
+
+
+
 
