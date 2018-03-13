@@ -40,5 +40,13 @@
 
 
 
+[Laradock](https://laradock.linganmin.cn/zh/introduction/)
+
+
+
+[Ansible中文权威指南](http://ansible-tran.readthedocs.io/en/latest/index.html)
+
+
+
 
 
