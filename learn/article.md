@@ -20,3 +20,15 @@
 
 
 
+[Solidity](https://readthedocs.org/projects/solidity/)
+
+
+
+[Godot Engine Documentation](https://readthedocs.org/projects/godot/)
+
+
+
+[Doctrine ORM](https://readthedocs.org/projects/doctrine-orm/)
+
+
+
